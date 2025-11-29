@@ -1,5 +1,3 @@
-# JavaScript Quiz Game
-
 ## Name 
 Kartik Sharma
 ## Roll No. 
