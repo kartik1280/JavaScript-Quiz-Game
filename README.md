@@ -1,7 +1,9 @@
 # JavaScript Quiz Game
 
-## Name Kartik Sharma
-## Roll No. 2501420029
+## Name 
+Kartik Sharma
+## Roll No. 
+2501420029
 
 # JavaScript Quiz Game
 
